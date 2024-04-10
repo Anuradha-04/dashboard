@@ -20,7 +20,7 @@ function Invite() {
                 </button>
             </div>
             <div className='flex justify-center ml-[98.5%] -rotate-90 '>
-                <div className=' flex justify-center text-black shadow-sm shadow-gray-400 bg-white p-4 md:-mt-7 -mt-16  px-12 rounded-lg w-[130%]'>
+                <div className='hidden md:block flex justify-center text-black shadow-sm shadow-gray-400 bg-white p-4 md:-mt-7 -mt-16  px-12 rounded-lg w-[130%]'>
                     <button>
                         Feedback
                     </button>
